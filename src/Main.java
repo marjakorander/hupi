@@ -19,7 +19,21 @@ public class Main {
             } else if (valittuPeli.equals("toka"))  {
                 tokaPeli.pelaa2();
             } else {
-                System.out.println("Väärin meni! Pelaaminen loppui tähän, tee jotain muuta!");
+                System.out.println("Väärin meni! EN KEKSI MUUTOKSIA JOTEN KIRJOITAN JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAAJOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAAJOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAAJOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   JOTAIN MONTA KERTAA
+                                   !");
                 break;
             }
         }
